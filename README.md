@@ -1,4 +1,4 @@
-# fivem-bytecode-encript
+# fivem-bytecode-encrypt
 
 ### Korean (KO)
 ❓설명 :</br>
